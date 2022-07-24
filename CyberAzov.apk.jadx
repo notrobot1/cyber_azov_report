@@ -1,0 +1,70 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "CyberAzov.apk"
+  ],
+  "treeExpansions": [
+    [
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "cyber.azov2",
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "target",
+      "cyber.azov2",
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "splash",
+      "cyber.azov2",
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "example.guiproposal",
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "databinding",
+      "example.guiproposal",
+      "com",
+      "Source code",
+      "CyberAzov.apk"
+    ],
+    [
+      "org",
+      "Source code",
+      "CyberAzov.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.cyber.azov2.MainActivity",
+      "subPath": "java",
+      "caret": 12491,
+      "view": {
+        "x": 3,
+        "y": 1098
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "CyberAzov.apk.cache",
+  "enableLiveReload": false
+}

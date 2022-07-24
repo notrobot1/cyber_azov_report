@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/main_background" android:scaleType="centerCrop" />
+    <com.cyber.azov2.DeterminantCircularProgressBar android:id="@id/progressbar" android:layout_width="160.0dip" android:layout_height="160.0dip" android:layout_marginTop="32.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textSize="38.0sp" android:textColor="@color/progress_track_color" android:id="@id/progress_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/progressbar" app:layout_constraintEnd_toEndOf="@id/progressbar" app:layout_constraintStart_toStartOf="@id/progressbar" app:layout_constraintTop_toTopOf="@id/progressbar" />
+    <TextView android:textSize="24.0sp" android:textColor="@color/progress_track_color" android:id="@id/level_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:fontFamily="@font/black_ops_one" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/progressbar" />
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <include android:id="@id/included" layout="@layout/bottom_sheet" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

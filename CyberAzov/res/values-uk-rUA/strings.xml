@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_label">Рівень %1$d</string>
+    <string name="max_level_label">Максимальний рівень!</string>
+    <string name="motto">"Рускій воєнний корабль, іді нахуй! "</string>
+    <string name="performing_attack">"Здійснюю DDoS атаку на "</string>
+    <string name="start_attack">> Почати атаку _</string>
+    <string name="stop_attack">> Зупинити атаку _</string>
+</resources>
