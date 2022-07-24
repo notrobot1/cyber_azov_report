@@ -22,5 +22,5 @@ screeen```````````
 At this time we can assert that application have not permissions collect geo data. But lets see what application send to server. I hook to function wich connect to server and replace cyberazov[.]com on my  ip. Now all request send be in my web server and I can see all request from application.
 
 screeen````````
-On the screenshot we can see http request on which you can see that it not have POST or GET parameters.
+On the screenshot we can see http request on which you can see that it not have POST or GET parameters. We get base64 string in response, I'm tryed decode this string but it ended in failure.
 
