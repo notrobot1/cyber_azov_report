@@ -26,6 +26,6 @@ On screenshot we [can see](https://github.com/notrobot1/cyber_azov_report/blob/m
 
 At this time we can assert that application have not permissions collect geo data. But lets see what application send to server. I hook to function wich connect to server and replace cyberazov[.]com on my  ip. Now all request send be in my web server and I can see all request from application.
 
-screeen````````
+![requests](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "")
 On the screenshot we can see http request on which you can see that it not have POST or GET parameters. We get base64 string in response, I'm tryed decode this string but it ended in failure.
 
