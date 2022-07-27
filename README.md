@@ -29,6 +29,7 @@ At this time we can assert that application have not permissions collect geo dat
 ![requests](https://github.com/notrobot1/cyber_azov_report/blob/main/photo_5393499229307125549_y.jpg "")
 On the screenshot we can see http request on which you can see that it not have POST or GET parameters. We get base64 string in response, I'm tryed decode this string but it ended in failure.
 
+Example base64 code you can see here
 ![requests](https://github.com/notrobot1/cyber_azov_report/blob/main/base.jpg "Example base64 code you can see here")
 
 
