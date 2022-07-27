@@ -32,6 +32,9 @@ On the screenshot we can see http request on which you can see that it not have 
 Example base64 code you can see here:
 ![requests](https://github.com/notrobot1/cyber_azov_report/blob/main/base.jpg "Example base64 code you can see here")
 
+In source code, I discaver see hash function. This function decrypt base64 to json format. So I hooked  this function with the help of Frida and printed return to console.
+
+
 __The application receives a target for attacks from the server, so hackers can change the target on Ukrainian sites at any time.(bold)__
 
 
