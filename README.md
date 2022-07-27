@@ -13,7 +13,7 @@ In this report we learn why it's not true.
 Im downloaded file "cyber_azov.apk" and open it in jadx. Project file you can see in this repozitorie. 
 First I analyzed file manifest where I learned what application can do in my phone.
 
-On screenshot we [can see](https://github.com/notrobot1/cyber_azov_report/blob/main/CyberAzov/AndroidManifest.xml) 4 permissions: 
+We [can see](https://github.com/notrobot1/cyber_azov_report/blob/main/CyberAzov/AndroidManifest.xml) 4 permissions: 
 * NETWORK_STATE; 
 * INTERNET;
 * and two permissions which not used in program (I failed spot this permissions in source code). 
