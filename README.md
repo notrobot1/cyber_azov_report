@@ -46,4 +46,4 @@ If we press button ">Start attack" and look on web traffic, we can see that appl
 
 Because the application does not cope with the task, there is only one reason for the existence of this product - the collection of donations.
 On the site cuberazov[.]com we can see bitcoin purse for donations. I looked how many people sent cash at this purse and happy discover, that with this task application also does not managed.
-
+![requests]([https://github.com/notrobot1/cyber_azov_report/blob/main/return%20from%20server.jpg](https://github.com/notrobot1/cyber_azov_report/blob/main/Screenshot%202022-07-21%20at%2006-55-32%20Blockchain.com%20Explorer%20BTC%20ETH%20BCH.png) "")
