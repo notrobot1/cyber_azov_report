@@ -17,7 +17,12 @@ On screenshot we can see 4 permissions:
 * NETWORK_STATE; 
 * INTERNET;
 * and two permissions which not used in program (I failed spot this permissions in source code). 
-screeen```````````
+```
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+ ```
 
 At this time we can assert that application have not permissions collect geo data. But lets see what application send to server. I hook to function wich connect to server and replace cyberazov[.]com on my  ip. Now all request send be in my web server and I can see all request from application.
 
