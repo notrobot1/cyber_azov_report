@@ -14,8 +14,8 @@ Im downloaded file "cyber_azov.apk" and open it in jadx. Project file you can se
 First I analyzed file manifest where I learned what application can do in my phone.
 
 On screenshot we can see 4 permissions: 
-NETWORK_STATE; 
-INTERNET
+* NETWORK_STATE; 
+* INTERNET
 and two permissions which not used in program (I failed spot this permissions in source code). 
 screeen```````````
 
