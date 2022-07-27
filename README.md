@@ -38,4 +38,12 @@ In source code, I discaver see hash function. This function decrypt base64 to js
 
 __The application receives a target for attacks from the server, so hackers can change the target on Ukrainian sites at any time.(bold)__
 
+# Does the application cope with the main task?
+
+If we press button ">Start attack" and look on web traffic, we can see that application really send request to get target. But most of sites from target list blocked on the territory of Ukraine. Same way the number of requests casts doubt on the effectiveness of such an attack.
+
+# Why was this app created?
+
+Because the application does not cope with the task, there is only one reason for the existence of this product - the collection of donations.
+On the site cuberazov[.]com we can see bitcoin purse for donations. I looked how many people sent cash at this purse and happy discover, that with this task application also does not managed.
 
