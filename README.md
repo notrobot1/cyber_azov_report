@@ -6,7 +6,7 @@ I found this  [report](https://blog.google/threat-analysis-group/continued-cyber
 The report states that russian hackers created fake application for Dos attacks witch russian infrastructures. Application was distributed on fake site regiment "Azov". 
 Today site down but we can see it on [web archive](https://web.archive.org/web/20220616174628/https://cyberazov.com/). 
 
-If write request in google "cyber azov" we can find [news posts](http://web.archive.org/web/20220727182903/https://tech.liga.net/other/novosti/rossiyskie-hakery-sozdali-feykovoe-prilojenie-kiber-azov-yakoby-dlya-kiberatak-na-rossiyu) which states russian hackers was collect geo data ukraine users who installed this application.
+If write a request in google "cyber azov" we can find [news posts](http://web.archive.org/web/20220727182903/https://tech.liga.net/other/novosti/rossiyskie-hakery-sozdali-feykovoe-prilojenie-kiber-azov-yakoby-dlya-kiberatak-na-rossiyu) which states russian hackers was collect geo data ukraine users who installed this application.
 In this report we learn why it's not true.
 
 # Lets start
